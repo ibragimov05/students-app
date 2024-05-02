@@ -313,7 +313,7 @@ class FirstPage extends StatelessWidget {
         /// bottom navigation bar which consists of fout icon buttons
         bottomNavigationBar: BottomNavigationBar(
           elevation: 0,
-          // Add this line to remove the borders
+          
           fixedColor: const Color(0xFF7888de),
           unselectedItemColor: Colors.grey,
           backgroundColor: const Color(0x00ffffff),
